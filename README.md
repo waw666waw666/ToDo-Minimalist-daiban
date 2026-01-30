@@ -75,8 +75,3 @@
 ## 📄 结语
 
 `ToDo` 不仅仅是一个 App，它是新手迈向开发者世界的第一枚勋章。感谢 **Trae**，让编程不再是门槛，而是想象力的释放。
-
----
-<p align="center">
-  Made with ❤️ by a Programming Novice & Trae AI
-</p>
