@@ -1,76 +1,29 @@
-# ToDo - 治愈系极致待办 | 让你的每一份努力都闪闪发光 ✨
+# ToDo - 治愈系极致待办
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Style-Minimalist%20Aesthetics-25C78B?style=for-the-badge" alt="Design">
-  <img src="https://img.shields.io/badge/Powered%20by-Trae%20AI%20Wizard-blueviolet?style=for-the-badge" alt="Powered by Trae">
-  <img src="https://img.shields.io/badge/UX-Smooth%20Gestures-0062FF?style=for-the-badge" alt="Platform">
-</p>
+一个极简美学的本地离线待办与任务规划应用，支持移动端和 Web 端。
 
-> **“这不仅仅是一个工具，更是一场关于创造力的极致实验。”**
->
-> 编程新手，在 **12 小时** 内挑战从零构建。`ToDo` 用丝滑的交互和纯粹的视觉，重新定义了小白开发者的无限可能。
+## 功能特性
 
----
+*   **极简美学**：通透的毛玻璃设计质感，界面优雅且克制。
+*   **勋章成就系统**：任务完成后自动标记、沉底并同步，提供打怪升级般的努力正向反馈。
+*   **拖拽与排序**：支持通过图标对任务列表按时间升降序重排，并支持长按拖拽任意调整任务优先级。
+*   **手势操作**：支持拟物化的侧滑删除，左滑或右扫可优雅清除任务。
+*   **时间绑定**：支持智能输入日期识别与星期匹配，一键快速锁定当下任务。
+*   **图文日记**：每个待办事项均支持多图上传保存，记录更生动。
+*   **完全本地化**：100% 离线运行，数据保存在本地浏览器或手机内，无账户绑定，无网络要求，隐私安全。
 
-## 📸 极简美学，一眼心动
+## 技术栈
 
-<p align="center">
-  <img src="screenshots/todo_list.png" width="280" alt="To Do 界面">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/do_list.png" width="280" alt="Do 界面">
-</p>
+*   **前端架构**：HTML5, CSS3, Vanilla JavaScript
+*   **样式库**：Tailwind CSS (极致响应式设计)
+*   **拖拽库**：SortableJS
+*   **打包工具**：Demo2APK (用于将 Web 应用构建为 Android 原生 APK)
 
-<p align="center">
-  <strong>删繁就简，秩序之美。</strong> <br>
-  <em>通透的毛玻璃质感，让你的待办列表也能成为桌面艺术品。</em>
-</p>
+## 预览与运行
 
----
+1.  **Web 网页预览**：直接在浏览器中打开 `web/index.html` 即可运行。
+2.  **Android App 运行**：可从 Release 中下载编译好的 APK 文件并安装在 Android 设备中。
 
-## 🎬 演示视频
+## 许可证
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/76f98cd3-eec9-40f1-b60a-ba25fc33e2b1" width="300" controls title="ToDo 演示视频">
-    您的浏览器不支持视频播放。
-  </video>
-</p>
-
----
-
-## 🌟 核心功能：为什么选择 ToDo？
-
-### 💎 勋章系统：让任务变身成就
-拒绝枯燥的列表。在 `To Do` 规划未来，在 `Do` 收藏勋章。任务完成后会自动变灰、沉底并同步，这种“打怪升级”般的正向反馈让你彻底告别拖延症。
-
-### 🎨 指尖魔法：极致丝滑的交互
-- **感官排序**：点击图标，列表如流水般按时间自动升降序。
-- **拟物化侧滑**：像拂去灰尘一样，从左向右轻轻一扫，优雅地删除任务。
-- **随心拖拽**：长按即开启 "重力感应"，自由调整优先级。
-
-### � 智联时间：它懂你的每一刻
-- **智能日期识别**：输入日期自动匹配星期，支持 "设为当前" 一键锁定当下。
-- **多维记忆存档**：每一个事项都支持多图上传，让待办变成图文并茂的日记。
-
-### � 隐私之盾：纯粹的本地力量
-- **100% 离线运行**：无需联网，无需账号。数据只存在于你的手机里，极速响应，隐私无忧。
-
----
-
-## 🛠️ 幕后功臣
-
-- **视觉框架**：Tailwind CSS (极致的响应式美学)
-- **交互引擎**：SortableJS (顺滑的拖拽手势)
-- **打包利器**：[Demo2APK](https://demo2apk.lasuo.ai/) (将 Web 构思变为掌上 App)
-
----
-
-## 📱 开启你的 ToDo 之旅
-
-1. **Web 预览**：直接打开 `index.html`。
-2. **下载 App**：前往 [Releases](https://github.com/waw666waw666/ToDo/releases) 下载最新的 APK 文件，装入你的 Android 手机。
-
----
-
-## 📄 结语
-
-`ToDo` 不仅仅是一个 App，它是新手迈向开发者世界的第一枚勋章。
+基于 [MIT License](./LICENSE) 协议开源。
