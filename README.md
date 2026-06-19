@@ -2,6 +2,14 @@
 
 一个极简美学的本地离线待办与任务规划应用，支持移动端和 Web 端。
 
+## 📸 界面预览
+
+<p align="center">
+  <img src="screenshots/todo_list.png" width="280" alt="To Do 界面">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/do_list.png" width="280" alt="Do 界面">
+</p>
+
 ## 功能特性
 
 *   **极简美学**：通透的毛玻璃设计质感，界面优雅且克制。
