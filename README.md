@@ -24,6 +24,21 @@
 1.  **Web 网页预览**：直接在浏览器中打开 `web/index.html` 即可运行。
 2.  **Android App 运行**：可从 Release 中下载编译好的 APK 文件并安装在 Android 设备中。
 
+## 目录结构
+
+```text
+.
+├── web/
+│   ├── css/                   # 界面毛玻璃与自适应样式
+│   ├── js/                    # 待办逻辑、拖拽及滑动手势核心实现
+│   ├── fonts/                 # 字体资源
+│   ├── index.html             # Web 端主页面入口
+│   └── manifest.json          # PWA 配置文件
+├── screenshots/               # 预览效果图
+├── tasks_import.json          # 预设任务导入数据模板
+└── README.md                  # 说明文档
+```
+
 ## 许可证
 
 基于 [MIT License](./LICENSE) 协议开源。
